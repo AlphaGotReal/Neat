@@ -1,0 +1,10 @@
+#! /usr/bin/python3
+
+import numpy as np
+import os
+import time
+os.sys.path.append("./build/")
+
+import neat
+
+
